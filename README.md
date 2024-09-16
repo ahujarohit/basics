@@ -4,7 +4,7 @@ https://www.youtube.com/playlist?list=PLzrb6iZd6X9Kia8eiW_jj4u8IjF93FMMB  👈
 
 **Examples and Assignments Download:** 
 
-https://github.com/ahujarohit/OOPS-basics
+https://github.com/ahujarohit/basics
 
 **Doubts, Queries and Custom Trainings:** 
 
